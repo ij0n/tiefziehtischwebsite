@@ -51,8 +51,8 @@
                             <li><a href="#service">Services</a></li>
                             <li><a href="#portfolio">How we made it</a></li>
                             <li><a href="#about">About</a></li>
-                            <li><a href="#clients">Clients</a></li>
-                            <li><a href="#price">Price</a></li>
+                            <li><a href="#clients">Opinions</a></li>
+                            <li><a href="#price">Cost of Materials</a></li>
                             <li><a href="#contact">Contact</a></li>
                         </ul>
                     </div>
@@ -95,7 +95,7 @@
                     <div class="da-slide">
                         <h2>Vacuum Molding Materials</h2>
                         <h4>A lot to choose from</h4>
-                        <p>Most Thermoplastics can be vacuum molded. Currently we had positive experiences with none, but as soon as we learned what works, I will write it down. </p>
+                        <p>Most Thermoplastics can be vacuum molded. Currently we had positive experiences with 1mm Polystyrol, which is available in white and damn expensive at Modulor</p>
                         <a href="#" class="da-link button">Read more</a>
                         <div class="da-img">
                             <img src="images/Slider03.png" width="320" alt="image03">
@@ -663,8 +663,7 @@
         <div class="section secondary-section">
             <div class="triangle"></div>
             <div class="container centered">
-                <p class="large-text">Elegance is not the abundance of simplicity. It is the absence of complexity.</p>
-                <a href="#" class="button">Purshase now</a>
+                <p class="large-text">The sheets need to be bigger then 1000mm by 1000mm and smaller then 1010mm by 1010mm. The thickness must not exceed 3mm. </p>
             </div>
         </div>
         <!-- Client section start -->
@@ -692,7 +691,7 @@
                         </div>
                         <div class="span4">
                             <div class="testimonial">
-                                <p>"I dont understand why we need this device! It is ridiculous, much too expensive and takes way too long to build! And Ijon asked three times for even more and more money. Lets stop this madness."</p>
+                                <p>"I dont understand why we need this device! It is ridiculous, much too expensive and took way too long to build! Ijon asked three times for even more and more money. Lets stop this madness!"</p>
                                 <div class="whopic">
                                     <div class="arrow"></div>
                                     <img src="images/Client2.png" class="centered" alt="client 2">
@@ -777,43 +776,46 @@
         <div id="price" class="section secondary-section">
             <div class="container">
                 <div class="title">
-                    <h1>Price</h1>
-                    <p>Duis mollis placerat quam, eget laoreet tellus tempor eu. Quisque dapibus in purus in dignissim.</p>
+                    <h1>Cost of Materials</h1>
+                    <p>We are looking for donations, so we can buy in bigger quantitys. This might reduce the price to about 5€ per sheet.</p>
                 </div>
                 <div class="price-table row-fluid">
                     <div class="span4 price-column">
-                        <h3>Basic</h3>
+                        <h3>Not tested yet</h3>
                         <ul class="list">
-                            <li class="price">$19,99</li>
-                            <li><strong>Free</strong> Setup</li>
-                            <li><strong>24/7</strong> Support</li>
-                            <li><strong>5 GB</strong> File Storage</li>
+                            <li class="price"><strong>???€</strong> per sheet</li>
+                            <li>bought <strong> nowhere</strong></li>
+                            <li><strong>#mm</strong> Thickness</li>
+                            <li><strong>hot</strong> for molding</li>
+                            <li><strong>quick</strong> heating</li>
                         </ul>
                         <a href="#" class="button button-ps">BUY</a>
                     </div>
                     <div class="span4 price-column">
-                        <h3>Pro</h3>
+                        <h3>Polystyrol</h3>
                         <ul class="list">
-                            <li class="price">$39,99</li>
-                            <li><strong>Free</strong> Setup</li>
-                            <li><strong>24/7</strong> Support</li>
-                            <li><strong>25 GB</strong> File Storage</li>
+                            <li class="price"><strong>10€</strong> per sheet</li>
+                            <li>bought at<strong> Modulor</strong></li>
+                            <li><strong>1mm</strong> Thickness</li>
+                            <li><strong>150°C</strong> for molding</li>
+                            <li><strong>1min 50sec</strong> for heating</li>
                         </ul>
-                        <a href="#" class="button button-ps">BUY</a>
+                        <a href="http://www.modulor.de/Kunststoff-Gummi/Platten-Matten-Folien/Polystyrol-weiss-matt-1-00-x-1000-x-2000-oxid.html" class="button button-ps">BUY</a>
                     </div>
                     <div class="span4 price-column">
-                        <h3>Premium</h3>
+                        <h3>Polystyrol</h3>
                         <ul class="list">
-                            <li class="price">$79,99</li>
-                            <li><strong>Free</strong> Setup</li>
-                            <li><strong>24/7</strong> Support</li>
-                            <li><strong>50 GB</strong> File Storage</li>
+                            <li class="price"><strong>19€</strong> per sheet</li>
+                            <li>bought at<strong> Modulor</strong></li>
+                            <li><strong>2mm</strong> Thickness</li>
+                            <li><strong>150°C</strong> for molding</li>
+                            <li><strong>NOT</strong> tested yet</li>
                         </ul>
-                        <a href="#" class="button button-ps">BUY</a>
+                        <a href="http://www.modulor.de/Kunststoff-Gummi/Platten-Matten-Folien/Polystyrol-weiss-matt-2-00-x-1000-x-2000.html" class="button button-ps">BUY</a>
                     </div>
                 </div>
                 <div class="centered">
-                    <p class="price-text">We Offer Custom Plans. Contact Us For More Info.</p>
+                    <p class="price-text">If you like to donate money for buying sheets, please</p>
                     <a href="#contact" class="button">Contact Us</a>
                 </div>
             </div>
