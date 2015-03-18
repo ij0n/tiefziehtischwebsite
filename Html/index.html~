@@ -732,7 +732,7 @@
                             <li id="client-next"></li>
                         </ul>
                     </div>
-                    <ul class="row client-slider" id="client-slider">
+                    <ul class="row client-slider" id="clint-slider">
                         <li>
                             <a href="">
                                 <img src="images/clients/ClientLogo01.png" alt="client logo 1">
