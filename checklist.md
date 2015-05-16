@@ -1,17 +1,12 @@
 Checklist for Vacuum Molding Table Operation
 
-Before:
-* check with cultorga/culttech 3 days in advance, wether they need power on that evening
-
 on the Day:
-* exchange vacuum cleaner filter for the clean one for vacuum molding
 * detach vacuum cleaner hose 
 * remove vacuum cleaner bag
 * attach vacuum molding table hose to vacuum cleaner
 * clean heating rods with paper and isopropanol
 * inspect all visible cables for visible damages
-* lay the extension cooord from workshop to case
-* check with cultorga/culttech what needs to be switched off (matelight/media-pc/amps/atem), before you can unplug theire cable. only then plug in the extension coord
+* connect powercable with socket
 * get IR-thermometer, stopwatch, notepad and pen
 * go to toilet
 
@@ -21,7 +16,7 @@ right before the first molding
 * position molds
 * plug in vacuum cleaner
 * switch on oven-thermometer, adjust set-temp to 150°C
-* unlock main switch (from here on you must stay in direct vicinity off the machine at all times!)
+* unlock main switch (from here on you must stay in direct vicinity of the machine at all times!)
 * check if heating elements are switched off
 * check if vacuum cleaner switch is off
 * check if the three automatic Over-Current circuit breakers are on
@@ -74,11 +69,9 @@ after the last mold of the day
 * unplug vacuum cleaner
 * remove vacuum molding table hose from vacuum cleaner
 * reattach vacuum cleaner hose
-* exchange filter in vacuum cleaner for the old one
 * put in new or old vacuum cleaner bag in vacuum cleaner
-* roll up extension coord
-* plug in the plugs from cultorga/culttech
+* unplug the powercable from the wallsocket
 * store away the vacuum cleaner where it belongs
-* submit temperatures, timings, stopwatch-readings, useful info and your overall experience via email to ijon
+* submit temperatures, timings, stopwatch-readings, useful info and your overall experience via email to vacuumforming@c-base.org
 
 
